@@ -1,6 +1,6 @@
 ---
 title: "JSP & Servelt"
-date: 2017-10-20 08:26:28 -0400
+date: 2017-10-20 08:26:28
 categories: jekyll update
 ---
 
@@ -20,7 +20,7 @@ categories: jekyll update
 - 웹 서버가 요청 내용을 분석하고 **서블릿 컨테이너**에 요청을 넘겨 처리한다.
 - 화면에 보일 내용을 HTML 문서 형태로 웹 브라우저에 전송한다.
 
-![Untitled](/assets/img/2022-11-18-JSP-&-Servelt/Untitled.png)
+![test](/assets/img/2022-11-18-JSP-&-Servelt/Untitled.png)
 
 ## Servelt이란?
 
